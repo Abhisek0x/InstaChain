@@ -1,0 +1,13 @@
+h2{
+  text-align: center;
+  width: 100%;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(91, 46, 61);
+  border-radius: 5px;
+}
+li{
+  background-color: black;
+  color: black;
+  font-weight: bold;
+}
